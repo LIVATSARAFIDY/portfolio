@@ -2,7 +2,7 @@
 import { useState } from 'react'
 import './App.css'
 
-const email = 'vahatra@gmail.com'
+const email = 'pierrethomas2@gmail.com'
 
 const copy = {
   fr: {
